@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    border: 2px solid black;
+    border-radius: 2px;
+    width: 40vw;
+    padding: .3vw 0vw;
+    margin: auto;
+}
+
+li {
+    color: blue;
+    display: flex;
+    justify-content: flex-start;
+}
+
+h2 {
+    font-size: 1.8vw;
+    color: black;
+    margin: .4vw;
+}
+
+li div {
+    padding: .1vw 1vw;
+    font-size: .8vw;
+}
